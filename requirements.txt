@@ -2,3 +2,4 @@ autogen-agentchat~=0.2
 matplotlib 
 numpy
 ipython
+autogenstudio
