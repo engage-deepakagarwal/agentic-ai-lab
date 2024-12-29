@@ -2,3 +2,4 @@
 AOAI_CONFIG_LIST
 .cache
 coding
+logs.db
