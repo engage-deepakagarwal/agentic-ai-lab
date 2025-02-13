@@ -3,3 +3,5 @@ matplotlib
 numpy
 ipython
 autogenstudio
+chromadb<=0.5.0
+langchain
