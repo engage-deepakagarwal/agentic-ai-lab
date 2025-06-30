@@ -1,1 +1,1 @@
-# agentic-ai
+# Notes about Agentic AI
