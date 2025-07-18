@@ -1,3 +1,8 @@
 python-dotenv
 openai-agents
 sendgrid
+autogen-core
+autogen-ext==0.6.4
+autogen-ext[ollama]
+tiktoken
+autogen-agentchat
