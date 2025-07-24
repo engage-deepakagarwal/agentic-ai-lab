@@ -9,3 +9,6 @@ autogen-agentchat
 langchain
 langchain_community
 azure-identity
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-instrumentation-openai
