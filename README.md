@@ -8,6 +8,21 @@ This repository serves as a **living laboratory** for learning and experimenting
 
 The resources and notes are carefully **aggregated from various open sources** and **augmented with my own understanding** to create a comprehensive learning experience. Each notebook represents both theoretical knowledge and practical experimentation, making complex concepts accessible and actionable.
 
+## 🌳 Repository Structure
+
+This repository is organized using **branches** to separate different learning tracks and maintain focused content:
+
+### 📋 **Branch Overview:**
+- **🔧 `agentic-ai-engineering`** 
+  - Foundational learning track covering
+  - Agentic AI concepts and principles
+  - OpenAI Agents SDK implementation
+  - AutoGen 0.2 vs 0.4 comparison analysis
+  - Core design patterns and frameworks
+- **🚀 `autogen-0.2`** - Specialized track focusing on AutoGen 2.0 framework deep dive
+
+> **💡 Navigation Tip**: Switch between branches to explore different learning paths and compare approaches across frameworks and versions.
+
 ## 🔄 Continuous Learning Philosophy
 
 This repository embodies a **continuous learning approach**:
@@ -25,14 +40,6 @@ This repository synthesizes knowledge from:
 - **Research Papers** - Latest academic insights and breakthroughs
 - **Community Resources** - Blog posts, tutorials, and open-source projects
 - **Personal Experimentation** - Custom implementations and insights
-
-## 📅 Version History & Updates
-
-> **Living Document**: This repository is actively maintained and updated as the field evolves
-
-- **Latest Update**: Comprehensive AutoGen 0.4 exploration and comparison
-- **Coming Soon**: Advanced multi-agent patterns, new framework evaluations
-- **Future Plans**: Integration with emerging tools, performance benchmarking
 
 ## 🤝 Contributing
 
