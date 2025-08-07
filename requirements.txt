@@ -3,7 +3,7 @@ openai-agents
 sendgrid
 autogen-core
 autogen-ext==0.6.4
-autogen-ext[openai, diskcache, redis, ollama]
+autogen-ext[openai, diskcache, redis, ollama, mcp]
 tiktoken
 autogen-agentchat
 langchain
@@ -12,3 +12,6 @@ azure-identity
 opentelemetry-sdk
 opentelemetry-exporter-otlp-proto-grpc
 opentelemetry-instrumentation-openai
+playwright
+uv
+mcp-server-fetch
